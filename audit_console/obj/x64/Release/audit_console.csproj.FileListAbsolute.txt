@@ -1,0 +1,1 @@
+C:\Users\SuperUser\Documents\Visual Studio 2015\Projects\audit_console\audit_console\bin\x64\Release\audit_console.exe.config

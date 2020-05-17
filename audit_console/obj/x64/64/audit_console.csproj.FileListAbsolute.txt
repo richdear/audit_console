@@ -1,0 +1,6 @@
+C:\Users\SuperUser\documents\visual studio 2015\Projects\audit_console\audit_console\bin\x64\64\audit_console.exe.config
+C:\Users\SuperUser\documents\visual studio 2015\Projects\audit_console\audit_console\bin\x64\64\audit_console.exe
+C:\Users\SuperUser\documents\visual studio 2015\Projects\audit_console\audit_console\bin\x64\64\audit_console.pdb
+C:\Users\SuperUser\documents\visual studio 2015\Projects\audit_console\audit_console\obj\x64\64\audit_console.exe
+C:\Users\SuperUser\documents\visual studio 2015\Projects\audit_console\audit_console\obj\x64\64\audit_console.pdb
+C:\Users\SuperUser\documents\visual studio 2015\Projects\audit_console\audit_console\obj\x64\64\audit_console.csprojResolveAssemblyReference.cache
